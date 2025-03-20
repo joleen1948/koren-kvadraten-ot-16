@@ -5,7 +5,11 @@ button {
     border-radius: 18px;
     width: 110px;
     cursor: pointer;
-
+}
+.page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .banner{
     width: 100%;
@@ -24,6 +28,6 @@ button {
     background-repeat: no-repeat;
     }
 
-      .title{
+    .title{
         text-align: center;
-      }
+    }
